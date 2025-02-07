@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.nitisaji.laundry" />
+                  <option name="mobileSdkAppId" value="1:269846146580:android:0351f994ee4a38ace50101" />
+                  <option name="projectId" value="laundryappfriska" />
+                  <option name="projectNumber" value="269846146580" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
